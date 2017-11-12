@@ -1,0 +1,9 @@
+*.dll
+*.csproj
+*.suo
+*.sln
+*.xls*
+Help/*
+!TempLibraryStore/*.dll
+WG_BalancePopMod/bin/*
+WG_BalancePopMod/obj/*
